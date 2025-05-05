@@ -1,35 +1,35 @@
 /* Define custom properties */
 :root {
-    --color-primary: #d73953;
-    --color-black: #090909;
-    --color-white: #ffffff;
-    --color-light-grey: #f3f3f3;
-    --color-dark-grey: #353535;
-    --text-color: var(--color-black);
+  --color-primary: #d73953;
+  --color-black: #090909;
+  --color-white: #ffffff;
+  --color-light-grey: #f3f3f3;
+  --color-dark-grey: #353535;
+  --text-color: var(--color-black);
 }
 
 /* Add smooth scrolling behavior to html element */
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 /* Set color values for various elements */
 body {
-    color: var(--text-color);
+  color: var(--text-color);
 }
 
 a {
-    color: var(--text-color);
+  color: var(--text-color);
 }
 
 .visually-hidden {
-    display: none;
+  display: none;
 }
 
 .card-category {
-    color: var(--color-primary);
+  color: var(--color-primary);
 }
 
 .section-tagline {
-    color: var(--color-primary);
+  color: var(--color-primary);
 }
